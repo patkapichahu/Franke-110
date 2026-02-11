@@ -59,6 +59,12 @@ I always seek to unite **performance**, **refined design**, and **user experienc
 A memory card game with neon aesthetics and smooth animations, creating a unique experience.
 
 <a href="https://jogo-memoria-gold.vercel.app/" target="_blank">
+<img 
+    src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/neon-linkedin.png" 
+    alt="Neon Memory" 
+    width="70%" 
+    style="border-radius: 14px; margin-top: 10px; border: 2px solid #7C3AED; cursor: pointer;" 
+  />
 </a>
 </div>
 
