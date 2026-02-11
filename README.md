@@ -1,12 +1,12 @@
 <!-- HEADER -->
 <div align="center">
 
-![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=Eduardo+Franke&fontSize=70&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Frontend%20Developer&descSize=22&descAlignY=55)
+![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=Eduardo+Franke&fontSize=70&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Desenvolvedor%20Frontend&descSize=22&descAlignY=55)
 
 <br/>
 
 <!-- Animated Gradient Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=80&lines=⚛️+React+•+TypeScript+•+JavaScript;✨+Turning+ideas+into+digital+experiences" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=80&lines=%E2%9A%9B%EF%B8%8F+React+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript;%E2%9C%A8+Turning+ideas+into+digital+experiences" alt="Subtitle" />
 
 <br/>
 
