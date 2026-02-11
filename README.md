@@ -73,9 +73,9 @@ A memory card game with neon aesthetics and smooth animations, creating a unique
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=patkapichahu&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patkapichahu&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=patkapichahu&theme=radical&hide_border=true&background=00000000" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Franke-110&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franke-110&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Franke-110&theme=radical&hide_border=true&background=00000000" />
 
 </div>
 
