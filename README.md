@@ -56,7 +56,7 @@ I always seek to unite **performance**, **refined design**, and **user experienc
 
 ### 👾 **Neon Memory**
 
-A memory game with neon aesthetics and smooth animations, creating a unique experience.
+A memory card game with neon aesthetics and smooth animations, creating a unique experience.
 
 <a href="https://jogo-memoria-gold.vercel.app/" target="_blank">
   <img 
