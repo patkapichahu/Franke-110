@@ -1,9 +1,6 @@
-# GitHub Analytics
+# README
 
-This section highlights various aspects of GitHub usage.
+This is the documentation for the Franke-110 project. This project aims to create a comprehensive solution for appliance management.
 
-- User: Franke-110
-- Contributor: Franke-101
-- Maintainer: Franke-101
-
-More details can be found in the associated repositories and contributions.
+## Contact
+For inquiries, please contact support@example.com.
